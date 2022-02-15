@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YungOps
-- 👀 I’m interested in DevOps, CI/CD, OSCP.
+- 👀 I’m interested in DevOps, CI/CD, OSCP, VMware.
 - 🌱 I’m currently learning k8s pods.
 - 💞️ I’m looking to collaborate on any entry level DevOps jobs.
 - 📫 You can reach me dislikermail@gmail.com.
